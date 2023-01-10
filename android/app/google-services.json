@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206609396788",
+    "project_id": "crudop-cee93",
+    "storage_bucket": "crudop-cee93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206609396788:android:c828d82e2522d915a1c661",
+        "android_client_info": {
+          "package_name": "com.example.crudop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206609396788-hhlu6si779ngscqosnakfm7f8860fm8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNeAHTL14RHl5bNjkUYID1J4Uzwqdhdt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206609396788-hhlu6si779ngscqosnakfm7f8860fm8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
